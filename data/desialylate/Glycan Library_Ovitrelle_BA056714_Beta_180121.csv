@@ -1,0 +1,55 @@
+Name,Composition,Sites,Relative Abundance,sd
+unmodified,,N13,41.38,4.100672402
+M5,"2 HexNAc, 5 Hex",N13,1.15,0.142793366
+M6,"2 HexNAc, 6 Hex",N13,0.95,0.244330689
+M7,"2 HexNAc, 7 Hex",N13,0.07,0.007935593
+A1G1,"3 HexNAc, 4 Hex",N13,0.2,0.023799656
+A1S1,"3 HexNAc, 4 Hex, 1 Neu5Ac",N13,0.65,0.099893675
+A1S1F,"3 HexNAc, 4 Hex, 1 Neu5Ac, 1 Fuc",N13,0.04,0.004920932
+M5-A1G1,"3 HexNAc, 6 Hex",N13,0.15,0.036368569
+M5-A1S1,"3 HexNAc, 6 Hex, 1 Neu5Ac",N13,0.81,0.085122874
+A2G0F,"4 HexNAc, 3 Hex, 1 Fuc",N13,0.85,0.112403067
+A2G1,"4 HexNAc, 4 Hex",N13,0.53,0.062663958
+A2S1G0,"4 HexNAc, 4 Hex, 1 Neu5Ac",N13,1.72,0.253975977
+A2G2,"4 HexNAc, 5 Hex",N13,4.12,0.482096788
+A2G2F,"4 HexNAc, 5 Hex, 1 Fuc",N13,3.25,1.359915426
+A2S1G1,"4 HexNAc, 5 Hex, 1 Neu5Ac",N13,13.11,1.772242979
+A2S1G1F,"4 HexNAc, 5 Hex, 1 Neu5Ac, 1 Fuc",N13,7.72,1.902902315
+A2S2,"4 HexNAc, 5 Hex, 2 Neu5Ac",N13,12.33,1.443743069
+A2S2F,"4 HexNAc, 5 Hex, 2 Neu5Ac, 1 Fuc",N13,7.4,0.888148263
+A3G3,"5 HexNAc, 6 Hex",N13,0.08,0.055483127
+A3S1G2,"5 HexNAc, 6 Hex, 1 Neu5Ac",N13,0.54,0.067267173
+A3S1G2F,"5 HexNAc, 6 Hex, 1 Neu5Ac, 1 Fuc",N13,0.26,0.028580107
+A3S2G1,"5 HexNAc, 6 Hex, 2 Neu5Ac",N13,0.86,0.107330811
+A3S2G1F,"5 HexNAc, 6 Hex, 2 Neu5Ac, 1 Fuc",N13,0.59,0.108001329
+A3S3,"5 HexNAc, 6 Hex, 3 Neu5Ac",N13,0.48,0.079652993
+A3S3F,"5 HexNAc, 6 Hex, 3 Neu5Ac, 1 Fuc",N13,0.54,0.094370037
+A3S2G1F+LacN1,"6 HexNAc, 7 Hex, 2 Neu5Ac, 1 Fuc",N13,0.03,0.029231581
+A3S3F+LacN1,"6 HexNAc, 7 Hex, 3 Neu5Ac, 1 Fuc",N13,0.16,0.124184519
+A4S4,"6 HexNAc, 7 Hex, 4 Neu5Ac",N13,0.03,0.006192783
+unmodified,,N30,6.89,2.850846508
+A2G2F,"4 HexNAc, 5 Hex, 1 Fuc",N30,3.49,0.607686569
+A2S1G1F,"4 HexNAc, 5 Hex, 1 Neu5Ac, 1 Fuc",N30,28.1,2.847901056
+A2S2F,"4 HexNAc, 5 Hex, 2 Neu5Ac, 1 Fuc",N30,61.48,5.795131904
+A2G1,"4 HexNAc, 4 Hex",N30,0.07,NA
+unmodified,,O115-122,13.02,
+1 x Core,"1 HexNAc, 1 Hex",O115-122,0.95,
+1 x Core + 1 x S,"1 HexNAc, 1 Hex, 1 Neu5Ac",O115-122,56,
+1 x Core + 2 x S,"1 HexNAc, 1 Hex, 2 Neu5Ac",O115-122,1.12,
+2 x Core,"2 HexNAc, 2 Hex",O115-122,0.31,
+2 x Core + 1 x S,"2 HexNAc, 2 Hex, 1 Neu5Ac",O115-122,1.51,
+2 x Core + 2 x S,"2 HexNAc, 2 Hex, 2 Neu5Ac",O115-122,26.91,
+2 x Core + 3 x S,"2 HexNAc, 2 Hex, 3 Neu5Ac",O115-122,0.18,
+unmodified,,O123-133,4.23,
+1 x Core,"1 HexNAc, 1 Hex",O123-133,1.38,
+1 x Core + 1 x S,"1 HexNAc, 1 Hex, 1 Neu5Ac",O123-133,16.2,
+1 x Core + 2 x S,"1 HexNAc, 1 Hex, 2 Neu5Ac",O123-133,10.7,
+2 x Core + 1 x S,"2 HexNAc, 2 Hex, 1 Neu5Ac",O123-133,1.69,
+2 x Core + 2 x S,"2 HexNAc, 2 Hex, 2 Neu5Ac",O123-133,51.09,
+2 x Core + 3 x S,"2 HexNAc, 2 Hex, 3 Neu5Ac",O123-133,14.71,
+unmodified,,O134-145,2.97,
+1 x Core,"1 HexNAc, 1 Hex",O134-145,4,
+1 x Core + 1 x S,"1 HexNAc, 1 Hex, 1 Neu5Ac",O134-145,57.81,
+1 x Core + 2 x S,"1 HexNAc, 1 Hex, 2 Neu5Ac",O134-145,21.58,
+2 x Core + 2 x S,"2 HexNAc, 2 Hex, 2 Neu5Ac",O134-145,1.39,
+2 x Core + 3 x S,"2 HexNAc, 2 Hex, 3 Neu5Ac",O134-145,12.24,

@@ -5,4 +5,5 @@ Generally, required input files are stored in `data/[subfolder]`, while output f
 
 Run the scripts in the following order
 
-* `make_glycan_library.R`: creates MoFi-compatible glycan libraries from peptide mapping results exported from Byonic (subfolder `library`)
+1. `make_glycan_library.R` creates MoFi-compatible glycan libraries from peptide mapping results exported from Byonic (subfolder `library`). 
+2. `desialylate.R` creates a desialylated glycan library (subfolder `desialylate`).

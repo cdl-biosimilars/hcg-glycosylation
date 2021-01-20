@@ -1,0 +1,177 @@
+Name,Composition,Fractional Abundance,Cumulative Abundance
+unmodified/A2G2F/2 x Core/2 x Core/1 x Core,"10 Hex, 9 HexNAc, 1 Fuc",23.578910470607507,23.578910470607507
+A2G2/A2G2F/2 x Core/2 x Core/1 x Core,"15 Hex, 13 HexNAc, 1 Fuc",20.449047317922965,44.02795778853047
+A2G2F/A2G2F/2 x Core/2 x Core/1 x Core,"15 Hex, 13 HexNAc, 2 Fuc",11.26854590259515,55.29650369112562
+unmodified/A2G2F/2 x Core/2 x Core/2 x Core,"11 Hex, 10 HexNAc, 1 Fuc",9.658864602360701,64.95536829348632
+A2G2/A2G2F/2 x Core/2 x Core/2 x Core,"16 Hex, 14 HexNAc, 1 Fuc",5.395789774058371,70.35115806754469
+A2G2/A2G2F/1 x Core/2 x Core/1 x Core,"14 Hex, 12 HexNAc, 1 Fuc",4.703788710140511,75.0549467776852
+unmodified/A2G2F/1 x Core/2 x Core/1 x Core,"9 Hex, 8 HexNAc, 1 Fuc",3.293981289841875,78.34892806752708
+A3G3/A2G2F/2 x Core/2 x Core/1 x Core,"16 Hex, 14 HexNAc, 1 Fuc",3.0575572516394733,81.40648531916655
+A3G3/A2G2F/1 x Core/2 x Core/1 x Core,"15 Hex, 13 HexNAc, 1 Fuc",2.4904555646955417,83.8969408838621
+A2G2F/A2G2F/2 x Core/2 x Core/2 x Core,"16 Hex, 14 HexNAc, 2 Fuc",2.036328215136874,85.93326909899896
+A2G2F/A2G2F/1 x Core/2 x Core/1 x Core,"14 Hex, 12 HexNAc, 2 Fuc",1.7078735205993172,87.64114261959828
+A3G3F/A2G2F/1 x Core/2 x Core/1 x Core,"15 Hex, 13 HexNAc, 2 Fuc",1.5654741039926867,89.20661672359097
+A3G3/A2G2F/2 x Core/2 x Core/2 x Core,"17 Hex, 15 HexNAc, 1 Fuc",1.3395817957312939,90.54619851932226
+A3G3F/A2G2F/2 x Core/2 x Core/1 x Core,"16 Hex, 14 HexNAc, 2 Fuc",1.3168625696434644,91.86306108896574
+A2G1/A2G2F/unmodified/1 x Core/1 x Core,"11 Hex, 10 HexNAc, 1 Fuc",1.079039937433175,92.9421010263989
+A2G0F/A2G2F/unmodified/1 x Core/1 x Core,"10 Hex, 10 HexNAc, 2 Fuc",0.5630080692180732,93.50510909561697
+A3G3F+LacN1/A2G2F/2 x Core/2 x Core/1 x Core,"17 Hex, 15 HexNAc, 2 Fuc",0.3986098609684823,93.90371895658546
+A3G3F/A2G2F/2 x Core/2 x Core/2 x Core,"17 Hex, 15 HexNAc, 2 Fuc",0.3412005714154863,94.24491952800095
+A3G3F+LacN1/A2G2F/1 x Core/2 x Core/1 x Core,"16 Hex, 14 HexNAc, 2 Fuc",0.330695263275634,94.57561479127658
+A2G0F/A2G2F/unmodified/unmodified/1 x Core,"9 Hex, 9 HexNAc, 2 Fuc",0.3129644732461649,94.88857926452275
+A2G2/A2G2F/unmodified/unmodified/1 x Core,"11 Hex, 9 HexNAc, 1 Fuc",0.30484593447745606,95.1934251990002
+M7/A2G2F/unmodified/unmodified/1 x Core,"13 Hex, 7 HexNAc, 1 Fuc",0.2818325456700833,95.47525774467029
+A2G0F/A2G2F/2 x Core/2 x Core/2 x Core,"14 Hex, 14 HexNAc, 2 Fuc",0.27055924384327995,95.74581698851357
+A2G1/A2G2F/2 x Core/2 x Core/2 x Core,"15 Hex, 14 HexNAc, 1 Fuc",0.22153799543078986,95.96735498394436
+A2G2/A2G2F/unmodified/2 x Core/2 x Core,"14 Hex, 12 HexNAc, 1 Fuc",0.21905786902889313,96.18641285297325
+A3G3F/unmodified/2 x Core/2 x Core/1 x Core,"11 Hex, 10 HexNAc, 1 Fuc",0.1988240537031916,96.38523690667644
+A3G3+LacN1/A2G2F/2 x Core/2 x Core/1 x Core,"17 Hex, 15 HexNAc, 1 Fuc",0.17526813724540394,96.56050504392185
+A2G2/A2G2F/unmodified/1 x Core/1 x Core,"12 Hex, 10 HexNAc, 1 Fuc",0.16164681802248673,96.72215186194433
+M5-A1G1/A2G2F/2 x Core/2 x Core/2 x Core,"17 Hex, 13 HexNAc, 1 Fuc",0.15853080693942187,96.88068266888375
+unmodified/A2G2F/unmodified/2 x Core/2 x Core,"9 Hex, 8 HexNAc, 1 Fuc",0.15328872158995832,97.03397139047371
+A2G1/A2G2F/1 x Core/1 x Core/1 x Core,"12 Hex, 11 HexNAc, 1 Fuc",0.15044045142528004,97.18441184189899
+A2G1/A2G2F/unmodified/2 x Core/1 x Core,"12 Hex, 11 HexNAc, 1 Fuc",0.11637218101399828,97.30078402291299
+A3G3/A2G2F/unmodified/2 x Core/2 x Core,"15 Hex, 13 HexNAc, 1 Fuc",0.11572748906577797,97.41651151197877
+A3G3/A2G1/2 x Core/2 x Core/2 x Core,"16 Hex, 15 HexNAc, 0 Fuc",0.10903572755952395,97.5255472395383
+A3G3F/unmodified/1 x Core/2 x Core/1 x Core,"10 Hex, 9 HexNAc, 1 Fuc",0.10447532467989988,97.6300225642182
+A3G3/A2G2F/1 x Core/1 x Core/1 x Core,"14 Hex, 12 HexNAc, 1 Fuc",0.10253772592841807,97.73256029014661
+A2G2/A2G2F/1 x Core/1 x Core/1 x Core,"13 Hex, 11 HexNAc, 1 Fuc",0.10230345262482979,97.83486374277145
+A3G3+LacN1/A2G2F/1 x Core/2 x Core/1 x Core,"16 Hex, 14 HexNAc, 1 Fuc",0.08628479531030644,97.92114853808175
+M6/unmodified/2 x Core/2 x Core/2 x Core,"12 Hex, 8 HexNAc, 0 Fuc",0.08610864996926264,98.00725718805101
+M5-A1G1/A2G2F/1 x Core/2 x Core/1 x Core,"15 Hex, 11 HexNAc, 1 Fuc",0.08294331819070552,98.09020050624171
+M7/A2G2F/unmodified/1 x Core/1 x Core,"14 Hex, 8 HexNAc, 1 Fuc",0.08258574314838661,98.1727862493901
+A2G2F/A2G2F/unmodified/2 x Core/2 x Core,"14 Hex, 12 HexNAc, 2 Fuc",0.07954019020173926,98.25232643959184
+A3G3/A2G2F/unmodified/2 x Core/1 x Core,"14 Hex, 12 HexNAc, 1 Fuc",0.07923369730832304,98.33156013690017
+A2G2/A2G2F/unmodified/2 x Core/1 x Core,"13 Hex, 11 HexNAc, 1 Fuc",0.07911215702300282,98.41067229392317
+A1G1/A2G2F/unmodified/1 x Core/1 x Core,"11 Hex, 9 HexNAc, 1 Fuc",0.07660032445971822,98.48727261838289
+A1G1/A2G2F/2 x Core/2 x Core/1 x Core,"14 Hex, 12 HexNAc, 1 Fuc",0.07353715697896648,98.56080977536185
+A3G3F/A2G2F/unmodified/2 x Core/2 x Core,"15 Hex, 13 HexNAc, 2 Fuc",0.07299462932855158,98.63380440469041
+A2G1/A2G2F/unmodified/2 x Core/unmodified,"11 Hex, 10 HexNAc, 1 Fuc",0.0712860195204267,98.70509042421082
+A3G3F+LacN1/A2G2F/1 x Core/1 x Core/1 x Core,"15 Hex, 13 HexNAc, 2 Fuc",0.07038767828110332,98.77547810249193
+A1G1/A2G2F/2 x Core/2 x Core/2 x Core,"15 Hex, 13 HexNAc, 1 Fuc",0.06943649343946678,98.8449145959314
+A2G2/A2G1/2 x Core/2 x Core/1 x Core,"14 Hex, 13 HexNAc, 0 Fuc",0.062249763524879646,98.90716435945627
+A2G0F/A2G2F/1 x Core/1 x Core/1 x Core,"11 Hex, 11 HexNAc, 2 Fuc",0.05648452651251601,98.9636488859688
+A3G3F+LacN1/A2G2F/unmodified/2 x Core/1 x Core,"15 Hex, 13 HexNAc, 2 Fuc",0.054745971996413685,99.0183948579652
+M5/A2G2F/2 x Core/2 x Core/1 x Core,"15 Hex, 11 HexNAc, 1 Fuc",0.0540977571413725,99.07249261510658
+A2G0F/A2G1/1 x Core/1 x Core/1 x Core,"10 Hex, 11 HexNAc, 1 Fuc",0.0533473779885259,99.12583999309511
+M7/A2G2F/2 x Core/2 x Core/2 x Core,"18 Hex, 12 HexNAc, 1 Fuc",0.05284360231314063,99.17868359540824
+A2G2F/A2G2F/unmodified/unmodified/1 x Core,"11 Hex, 9 HexNAc, 2 Fuc",0.05167223579519934,99.23035583120344
+A3G3F+LacN1/unmodified/1 x Core/2 x Core/1 x Core,"11 Hex, 10 HexNAc, 1 Fuc",0.049435189963943055,99.27979102116738
+A2G1/A2G2F/1 x Core/2 x Core/1 x Core,"13 Hex, 12 HexNAc, 1 Fuc",0.04891908411468472,99.32871010528207
+A2G0F/A2G2F/unmodified/2 x Core/1 x Core,"11 Hex, 11 HexNAc, 2 Fuc",0.04368580603227336,99.37239591131434
+A3G3F/A2G2F/1 x Core/1 x Core/1 x Core,"14 Hex, 12 HexNAc, 2 Fuc",0.04238409196195966,99.4147800032763
+A2G0F/A2G1/unmodified/2 x Core/1 x Core,"10 Hex, 11 HexNAc, 1 Fuc",0.0412602846861002,99.45604028796241
+unmodified/A2G2F/1 x Core/1 x Core/1 x Core,"8 Hex, 7 HexNAc, 1 Fuc",0.03970315987127299,99.49574344783368
+A2G0F/A2G2F/unmodified/2 x Core/unmodified,"10 Hex, 10 HexNAc, 2 Fuc",0.03698699871237756,99.53273044654605
+A2G1/A2G1/1 x Core/1 x Core/1 x Core,"11 Hex, 11 HexNAc, 0 Fuc",0.036048144044614094,99.56877859059067
+A2G1/A2G2F/unmodified/unmodified/1 x Core,"10 Hex, 9 HexNAc, 1 Fuc",0.03561658795905678,99.60439517854972
+A3G3F+LacN1/A2G2F/2 x Core/2 x Core/2 x Core,"18 Hex, 16 HexNAc, 2 Fuc",0.035229068208760414,99.63962424675849
+A3G3F/A2G2F/unmodified/2 x Core/1 x Core,"14 Hex, 12 HexNAc, 2 Fuc",0.03286167482513171,99.67248592158361
+unmodified/A2G2F/unmodified/2 x Core/1 x Core,"8 Hex, 7 HexNAc, 1 Fuc",0.030705655850755575,99.70319157743438
+A2G1/A2G1/unmodified/2 x Core/1 x Core,"11 Hex, 11 HexNAc, 0 Fuc",0.027875000220181675,99.73106657765456
+A2G0F/A2G2F/1 x Core/2 x Core/1 x Core,"12 Hex, 12 HexNAc, 2 Fuc",0.018368436164047684,99.74943501381861
+A2G0F/A2G2F/unmodified/unmodified/unmodified,"8 Hex, 8 HexNAc, 2 Fuc",0.017614534104380207,99.76704954792298
+A2G1/A2G1/2 x Core/2 x Core/2 x Core,"14 Hex, 14 HexNAc, 0 Fuc",0.017614534104380207,99.78466408202736
+M6/A2G1/2 x Core/2 x Core/1 x Core,"15 Hex, 11 HexNAc, 0 Fuc",0.017614534104380207,99.80227861613174
+M5/A2G2F/1 x Core/1 x Core/1 x Core,"13 Hex, 9 HexNAc, 1 Fuc",0.016480158108058123,99.81875877423981
+A3G3F+LacN1/A2G2F/unmodified/2 x Core/2 x Core,"16 Hex, 14 HexNAc, 2 Fuc",0.015536019080063341,99.83429479331987
+A3G3+LacN1/A2G1/2 x Core/2 x Core/1 x Core,"16 Hex, 15 HexNAc, 0 Fuc",0.01426601117113753,99.848560804491
+M5/A2G2F/unmodified/2 x Core/1 x Core,"13 Hex, 9 HexNAc, 1 Fuc",0.012742353971108645,99.86130315846212
+A3G3+LacN1/A2G2F/1 x Core/1 x Core/1 x Core,"15 Hex, 13 HexNAc, 1 Fuc",0.011572748906577798,99.8728759073687
+A1G1/A2G2F/1 x Core/1 x Core/1 x Core,"12 Hex, 10 HexNAc, 1 Fuc",0.011354328683683482,99.88423023605237
+A2G2/A2G2F/unmodified/2 x Core/unmodified,"12 Hex, 10 HexNAc, 1 Fuc",0.010734297083209297,99.89496453313558
+A3G3+LacN1/A2G2F/unmodified/2 x Core/1 x Core,"15 Hex, 13 HexNAc, 1 Fuc",0.009258199125262236,99.90422273226085
+A1G1/A2G2F/1 x Core/2 x Core/1 x Core,"13 Hex, 11 HexNAc, 1 Fuc",0.00897108221936084,99.91319381448021
+A1G1/A2G2F/unmodified/2 x Core/1 x Core,"12 Hex, 10 HexNAc, 1 Fuc",0.008777322344212657,99.92197113682442
+A3G3/A2G1/1 x Core/2 x Core/1 x Core,"14 Hex, 13 HexNAc, 0 Fuc",0.007581295478525242,99.92955243230294
+M5-A1G1/A2G2F/unmodified/1 x Core/1 x Core,"13 Hex, 9 HexNAc, 1 Fuc",0.005633128006580792,99.93518556030952
+M7/A2G2F/unmodified/2 x Core/unmodified,"14 Hex, 8 HexNAc, 1 Fuc",0.005486927373514436,99.94067248768305
+A1G1/A2G2F/unmodified/2 x Core/unmodified,"11 Hex, 9 HexNAc, 1 Fuc",0.005071224368651062,99.9457437120517
+A3G3F/unmodified/unmodified/2 x Core/2 x Core,"10 Hex, 9 HexNAc, 1 Fuc",0.004748878394540904,99.95049259044623
+A3G3F+LacN1/unmodified/1 x Core/1 x Core/1 x Core,"10 Hex, 9 HexNAc, 1 Fuc",0.004748878394540904,99.95524146884077
+A3G3F+LacN1/unmodified/unmodified/2 x Core/1 x Core,"10 Hex, 9 HexNAc, 1 Fuc",0.004748878394540904,99.95999034723532
+A3G3+LacN1/A2G2F/unmodified/2 x Core/2 x Core,"16 Hex, 14 HexNAc, 1 Fuc",0.004271524520312201,99.96426187175562
+M5-A1G1/A2G2F/unmodified/2 x Core/2 x Core,"15 Hex, 11 HexNAc, 1 Fuc",0.0038611058756801418,99.96812297763131
+A3G3/A2G2F/unmodified/1 x Core/1 x Core,"13 Hex, 11 HexNAc, 1 Fuc",0.0027707662146190066,99.97089374384592
+A3G3F/unmodified/1 x Core/1 x Core/1 x Core,"9 Hex, 8 HexNAc, 1 Fuc",0.0027619589475668164,99.9736557027935
+A1G1F/A2G2F/2 x Core/2 x Core/2 x Core,"15 Hex, 13 HexNAc, 2 Fuc",0.0026069510474482707,99.97626265384095
+A3G3F+LacN1/A2G2F/unmodified/1 x Core/1 x Core,"14 Hex, 12 HexNAc, 2 Fuc",0.0024272827995835927,99.97868993664052
+A3G3F+LacN1/unmodified/unmodified/2 x Core/2 x Core,"11 Hex, 10 HexNAc, 1 Fuc",0.002293412340390303,99.98098334898091
+A2G1/A2G2F/unmodified/2 x Core/2 x Core,"13 Hex, 12 HexNAc, 1 Fuc",0.0022757978062859226,99.9832591467872
+A3G3F/unmodified/unmodified/2 x Core/1 x Core,"9 Hex, 8 HexNAc, 1 Fuc",0.002071469210675112,99.98533061599788
+A1G1F/A2G2F/2 x Core/2 x Core/1 x Core,"14 Hex, 12 HexNAc, 2 Fuc",0.002053854676570732,99.98738447067444
+M6/A2G1/unmodified/1 x Core/1 x Core,"12 Hex, 8 HexNAc, 0 Fuc",0.0018407188139077317,99.98922518948835
+A3G3F+LacN1/unmodified/2 x Core/2 x Core/1 x Core,"12 Hex, 11 HexNAc, 1 Fuc",0.0015536019080063343,99.99077879139637
+A3G3F/unmodified/2 x Core/2 x Core/2 x Core,"12 Hex, 11 HexNAc, 1 Fuc",0.0013316587782911437,99.99211045017465
+A3G3/A2G2F/unmodified/unmodified/1 x Core,"12 Hex, 10 HexNAc, 1 Fuc",0.0012206872134335484,99.99333113738808
+A1G1F/A2G2F/unmodified/1 x Core/1 x Core,"11 Hex, 9 HexNAc, 2 Fuc",9.828910030244158e-4,99.99431402839112
+A3G3F/A2G1/2 x Core/2 x Core/1 x Core,"15 Hex, 14 HexNAc, 1 Fuc",8.736808915772583e-4,99.99518770928269
+A2G0F/A2G2F/unmodified/2 x Core/2 x Core,"12 Hex, 12 HexNAc, 2 Fuc",8.52543450652002e-4,99.99604025273334
+A3G3+LacN1/A2G2F/unmodified/1 x Core/1 x Core,"14 Hex, 12 HexNAc, 1 Fuc",5.17867302668778e-4,99.99655812003601
+A3G3/A2G2F/unmodified/unmodified/unmodified,"11 Hex, 9 HexNAc, 1 Fuc",5.037756753852739e-4,99.9970618957114
+A1G1/A2G2F/unmodified/2 x Core/2 x Core,"13 Hex, 11 HexNAc, 1 Fuc",4.26271725326001e-4,99.99748816743671
+M5-A1G1/unmodified/2 x Core/2 x Core/2 x Core,"12 Hex, 9 HexNAc, 0 Fuc",4.121800980424968e-4,99.99790034753477
+M5-A1G1/A2G2F/unmodified/2 x Core/unmodified,"13 Hex, 9 HexNAc, 1 Fuc",3.7342812301286045e-4,99.99827377565778
+A3G3/A2G1/unmodified/2 x Core/2 x Core,"14 Hex, 13 HexNAc, 0 Fuc",3.522906820876042e-4,99.99862606633987
+A3G3F+LacN1/A2G1/1 x Core/2 x Core/1 x Core,"15 Hex, 14 HexNAc, 1 Fuc",2.2018167630475258e-4,99.99884624801616
+A1G1/A2G1/2 x Core/2 x Core/2 x Core,"14 Hex, 13 HexNAc, 0 Fuc",2.1137440925256246e-4,99.99905762242543
+A3G3/A2G2F/unmodified/2 x Core/unmodified,"13 Hex, 11 HexNAc, 1 Fuc",1.937598751481823e-4,99.99925138230057
+A3G3F+LacN1/A2G2F/unmodified/2 x Core/unmodified,"14 Hex, 12 HexNAc, 2 Fuc",1.8671406150643023e-4,99.99943809636207
+M6/A2G1/unmodified/2 x Core/unmodified,"12 Hex, 8 HexNAc, 0 Fuc",1.2330173873066147e-4,99.99956139810081
+A3G3F/A2G2F/unmodified/unmodified/unmodified,"11 Hex, 9 HexNAc, 2 Fuc",1.0040284439496719e-4,99.9996618009452
+A1G1F/A2G2F/unmodified/2 x Core/unmodified,"11 Hex, 9 HexNAc, 2 Fuc",6.341232277576875e-5,99.99972521326798
+A3G3F/unmodified/unmodified/1 x Core/1 x Core,"8 Hex, 7 HexNAc, 1 Fuc",4.2274881850512496e-5,99.99976748814983
+A3G3F/A2G1/unmodified/1 x Core/1 x Core,"12 Hex, 11 HexNAc, 1 Fuc",3.699052161919844e-5,99.99980447867145
+A3G3+LacN1/A2G1/1 x Core/1 x Core/1 x Core,"14 Hex, 13 HexNAc, 0 Fuc",3.522906820876042e-5,99.99983970773965
+A3G3+LacN1/A2G1/unmodified/2 x Core/1 x Core,"14 Hex, 13 HexNAc, 0 Fuc",2.8183254567008333e-5,99.99986789099422
+M5/A2G1/1 x Core/1 x Core/1 x Core,"12 Hex, 9 HexNAc, 0 Fuc",2.6421801156570308e-5,99.99989431279538
+A3G3F+LacN1/unmodified/2 x Core/2 x Core/2 x Core,"13 Hex, 12 HexNAc, 1 Fuc",2.1137440925256248e-5,99.9999154502363
+M5/A2G1/unmodified/2 x Core/1 x Core,"12 Hex, 9 HexNAc, 0 Fuc",2.1137440925256248e-5,99.99993658767723
+M6/A2G1/1 x Core/1 x Core/1 x Core,"13 Hex, 9 HexNAc, 0 Fuc",1.4091627283504167e-5,99.99995067930452
+M5-A1G1/A2G1/unmodified/1 x Core/1 x Core,"12 Hex, 9 HexNAc, 0 Fuc",1.0568720462628124e-5,99.99996124802497
+M6/A2G1/unmodified/2 x Core/1 x Core,"13 Hex, 9 HexNAc, 0 Fuc",1.0568720462628124e-5,99.99997181674544
+A1G1F/unmodified/1 x Core/2 x Core/1 x Core,"8 Hex, 7 HexNAc, 1 Fuc",7.045813641752083e-6,99.99997886255908
+A3G3F/A2G1/1 x Core/1 x Core/1 x Core,"13 Hex, 12 HexNAc, 1 Fuc",7.045813641752083e-6,99.99998590837272
+A3G3F/A2G1/unmodified/2 x Core/1 x Core,"13 Hex, 12 HexNAc, 1 Fuc",7.045813641752083e-6,99.99999295418637
+M5/A2G1/1 x Core/2 x Core/1 x Core,"13 Hex, 10 HexNAc, 0 Fuc",7.045813641752083e-6,100
+A1G1F/A2G1/1 x Core/1 x Core/1 x Core,"11 Hex, 10 HexNAc, 1 Fuc",0,100
+A1G1F/A2G1/1 x Core/2 x Core/1 x Core,"12 Hex, 11 HexNAc, 1 Fuc",0,100
+A1G1F/A2G1/2 x Core/2 x Core/1 x Core,"13 Hex, 12 HexNAc, 1 Fuc",0,100
+A1G1F/A2G1/unmodified/1 x Core/1 x Core,"10 Hex, 9 HexNAc, 1 Fuc",0,100
+A1G1F/A2G1/unmodified/2 x Core/1 x Core,"11 Hex, 10 HexNAc, 1 Fuc",0,100
+A1G1F/A2G1/unmodified/2 x Core/2 x Core,"12 Hex, 11 HexNAc, 1 Fuc",0,100
+A1G1F/A2G1/unmodified/2 x Core/unmodified,"10 Hex, 9 HexNAc, 1 Fuc",0,100
+A1G1F/A2G1/unmodified/unmodified/1 x Core,"9 Hex, 8 HexNAc, 1 Fuc",0,100
+A1G1F/A2G1/unmodified/unmodified/unmodified,"8 Hex, 7 HexNAc, 1 Fuc",0,100
+A1G1F/unmodified/2 x Core/2 x Core/1 x Core,"9 Hex, 8 HexNAc, 1 Fuc",0,100
+A1G1F/unmodified/2 x Core/2 x Core/2 x Core,"10 Hex, 9 HexNAc, 1 Fuc",0,100
+A1G1F/unmodified/unmodified/2 x Core/2 x Core,"8 Hex, 7 HexNAc, 1 Fuc",0,100
+A2G0F/A2G1/unmodified/unmodified/1 x Core,"8 Hex, 9 HexNAc, 1 Fuc",0,100
+A2G0F/unmodified/2 x Core/2 x Core/1 x Core,"8 Hex, 9 HexNAc, 1 Fuc",0,100
+A2G1/A2G2F/unmodified/unmodified/unmodified,"9 Hex, 8 HexNAc, 1 Fuc",0,100
+A3G3+LacN1/A2G2F/unmodified/2 x Core/unmodified,"14 Hex, 12 HexNAc, 1 Fuc",0,100
+A3G3+LacN1/A2G2F/unmodified/unmodified/1 x Core,"13 Hex, 11 HexNAc, 1 Fuc",0,100
+A3G3+LacN1/A2G2F/unmodified/unmodified/unmodified,"12 Hex, 10 HexNAc, 1 Fuc",0,100
+A3G3F/A2G1/unmodified/2 x Core/unmodified,"12 Hex, 11 HexNAc, 1 Fuc",0,100
+A3G3F/A2G1/unmodified/unmodified/1 x Core,"11 Hex, 10 HexNAc, 1 Fuc",0,100
+A3G3F/A2G1/unmodified/unmodified/unmodified,"10 Hex, 9 HexNAc, 1 Fuc",0,100
+A3G3F/unmodified/unmodified/2 x Core/unmodified,"8 Hex, 7 HexNAc, 1 Fuc",0,100
+A3G3F+LacN1/A2G1/unmodified/1 x Core/1 x Core,"13 Hex, 12 HexNAc, 1 Fuc",0,100
+A3G3F+LacN1/A2G1/unmodified/2 x Core/2 x Core,"15 Hex, 14 HexNAc, 1 Fuc",0,100
+A3G3F+LacN1/A2G1/unmodified/2 x Core/unmodified,"13 Hex, 12 HexNAc, 1 Fuc",0,100
+A3G3F+LacN1/A2G1/unmodified/unmodified/1 x Core,"12 Hex, 11 HexNAc, 1 Fuc",0,100
+A3G3F+LacN1/A2G1/unmodified/unmodified/unmodified,"11 Hex, 10 HexNAc, 1 Fuc",0,100
+A3G3F+LacN1/unmodified/unmodified/1 x Core/1 x Core,"9 Hex, 8 HexNAc, 1 Fuc",0,100
+A3G3F+LacN1/unmodified/unmodified/2 x Core/unmodified,"9 Hex, 8 HexNAc, 1 Fuc",0,100
+A3G3F+LacN1/unmodified/unmodified/unmodified/1 x Core,"8 Hex, 7 HexNAc, 1 Fuc",0,100
+M5-A1G1/A2G1/1 x Core/1 x Core/1 x Core,"13 Hex, 10 HexNAc, 0 Fuc",0,100
+M5-A1G1/A2G1/1 x Core/2 x Core/1 x Core,"14 Hex, 11 HexNAc, 0 Fuc",0,100
+M5-A1G1/A2G1/2 x Core/2 x Core/1 x Core,"15 Hex, 12 HexNAc, 0 Fuc",0,100
+M5-A1G1/A2G1/2 x Core/2 x Core/2 x Core,"16 Hex, 13 HexNAc, 0 Fuc",0,100
+M5-A1G1/A2G1/unmodified/2 x Core/1 x Core,"13 Hex, 10 HexNAc, 0 Fuc",0,100
+M5-A1G1/A2G1/unmodified/2 x Core/2 x Core,"14 Hex, 11 HexNAc, 0 Fuc",0,100
+M5-A1G1/A2G1/unmodified/2 x Core/unmodified,"12 Hex, 9 HexNAc, 0 Fuc",0,100
+M5/A2G1/2 x Core/2 x Core/1 x Core,"14 Hex, 11 HexNAc, 0 Fuc",0,100
+M5/A2G1/2 x Core/2 x Core/2 x Core,"15 Hex, 12 HexNAc, 0 Fuc",0,100
+M5/A2G1/unmodified/2 x Core/2 x Core,"13 Hex, 10 HexNAc, 0 Fuc",0,100
+M6/A2G1/2 x Core/2 x Core/2 x Core,"16 Hex, 12 HexNAc, 0 Fuc",0,100

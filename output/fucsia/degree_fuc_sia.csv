@@ -1,0 +1,27 @@
+file,level,batch,protein,sites,fuc,sia
+data/fucsia/Hit Na_Ovitrelle_BA056714_Dimer_180121.csv,dimer,056714,hcg,NA,0.3444944039375979,0.7096131244914367
+data/fucsia/Hit Na_Ovitrelle_BA059433_Dimer_180121.csv,dimer,059433,hcg,NA,0.33330638546064284,0.7070473427268132
+output/library/library_N.csv,library,056714,hcg_alpha,N52,0.040798715988368046,0.4680304735323924
+output/library/library_N.csv,library,056714,hcg_alpha,N78,0.012184957974265834,0.7152779699215139
+output/library/library_N.csv,library,056714,hcg_beta,N13,0.3692375550664334,0.6462567264639111
+output/library/library_N.csv,library,056714,hcg_beta,N30,0.9992274055557357,0.8108679879781895
+output/library/library_O_56714.csv,library,056714,hcg_beta,S121,NA,0.4953653684474204
+output/library/library_O_56714.csv,library,056714,hcg_beta,S121_S127_S130_S132,NA,0.6580473220191695
+output/library/library_O_56714.csv,library,056714,hcg_beta,S127_S130_S132,NA,0.5826168111566046
+output/library/library_O_56714.csv,library,056714,hcg_beta,S138_T140,NA,0.6221302814731681
+output/library/library_N.csv,library,059433,hcg_alpha,N52,0.043204245769541204,0.48942871812412253
+output/library/library_N.csv,library,059433,hcg_alpha,N78,0.011966360722000248,0.7233002438518704
+output/library/library_N.csv,library,059433,hcg_beta,N13,0.3370736113430164,0.6583256668929548
+output/library/library_N.csv,library,059433,hcg_beta,N30,0.9902280320565496,0.7738401244012667
+output/library/library_O_59433.csv,library,059433,hcg_beta,S121,NA,0.4992347867472364
+output/library/library_O_59433.csv,library,059433,hcg_beta,S121_S127_S130_S132,NA,0.6979689534693625
+output/library/library_O_59433.csv,library,059433,hcg_beta,S127_S130_S132,NA,0.5753758651515427
+output/library/library_O_59433.csv,library,059433,hcg_beta,S138_T140,NA,0.6483995877754186
+output/subunits/Hit ox_Ovitrelle_BA056714_Alpha_180121_glycoforms.csv,subunit,056714,hcg_alpha,NA,0.07115522718617544,0.643422914388232
+output/subunits/Hits ox_Ovitrelle_BA056714_Alpha_sialidase_180121_glycoforms.csv,subunit,056714,hcg_alpha,NA,0.0940792301805204,0
+output/subunits/Hit Ox_Ovitrelle_BA056714_Beta_180121_glycoforms.csv,subunit,056714,hcg_beta,NA,0.7331984421056416,0.6694929554148206
+output/subunits/Hits ox_Ovitrelle_BA056714_Beta_sialidase_180121_glycoforms.csv,subunit,056714,hcg_beta,NA,0.7913598174995538,0
+output/subunits/Hit ox_Ovitrelle_BA059433_Alpha_180121_glycoforms.csv,subunit,059433,hcg_alpha,NA,0.09845598343396733,0.6534277249034798
+output/subunits/Hits ox_Ovitrelle_BA059433_Alpha_sialidase_180121_glycoforms.csv,subunit,059433,hcg_alpha,NA,0.0433560640332375,0
+output/subunits/Hit ox 20ppm+24583.7_Ovitrelle_BA059433_Beta_180121_glycoforms.csv,subunit,059433,hcg_beta,NA,0.7139689254778413,0.6663124969194014
+output/subunits/Hits ox_Ovitrelle_BA059433_Beta_sialidase_180121_glycoforms.csv,subunit,059433,hcg_beta,NA,0.758871652633218,0

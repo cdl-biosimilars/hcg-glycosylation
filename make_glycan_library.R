@@ -17,9 +17,11 @@ library(Biostrings)
 # * Rename columns to `protein`, `sequence`, `glycan`, [sample names unchanged]
 # 
 # Generated files:
-# * Byonic_output_N_glycans_12_01_21.xlsx --> byonic_results_N.csv
-# * Byonic_output O_glycans_12_01_21.xlsx --> byonic_results_O_56714.csv
-#                                         |-> byonic_results_O_59433.csv
+# * 150121 Byonic output N-glycan noNeuGc_noOx_noA4S1G3_v4 1miss.xlsx
+#   --> byonic_results_N.csv
+# * Byonic_output O_glycans_12_01_21.xlsx
+#   --> byonic_results_O_56714.csv
+#   |-> byonic_results_O_59433.csv
 
 
 

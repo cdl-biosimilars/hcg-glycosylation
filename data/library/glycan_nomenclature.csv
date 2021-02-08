@@ -34,6 +34,7 @@ A3S3,N,HexNac(5)Hex(6)Neu5Ac(3)Neu5Gc(0)Fuc(0)
 A3S3F,N,HexNac(5)Hex(6)Neu5Ac(3)Neu5Gc(0)Fuc(1)
 A4G4F,N,HexNac(6)Hex(7)Neu5Ac(0)Neu5Gc(0)Fuc(1)
 A4S2G2,N,HexNac(6)Hex(7)Neu5Ac(2)Neu5Gc(0)Fuc(0)
+A4S4,N,HexNac(6)Hex(7)Neu5Ac(4)Neu5Gc(0)Fuc(0)
 A3S2G1F+LacN1,N,HexNac(6)Hex(7)Neu5Ac(2)Neu5Gc(0)Fuc(1)
 A3S3F+LacN1,N,HexNac(6)Hex(7)Neu5Ac(3)Neu5Gc(0)Fuc(1)
 none,N,none
